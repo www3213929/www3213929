@@ -1,0 +1,5 @@
+{
+  "name": "Video Prompt Alchemist",
+  "description": "A professional tool to craft and optimize AI video generation prompts using single, start/end, or multi-reference image analysis via Gemini.",
+  "requestFramePermissions": []
+}
